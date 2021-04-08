@@ -16,7 +16,8 @@ My name is Zach, and I'm a software developer and student currently based in Kan
 ### Social
 [![Bio: Zachary Halderwood](https://img.shields.io/static/v1?&style=plastic&logo=firefox-browser&logoColor=white&label=umkc.edu&message=Biography&color=brightgreen)](http://z.web.umkc.edu/zjuvz6/) &nbsp;
 [![Linkedin: zhalderwood](https://img.shields.io/badge/-zhalderwood-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zhalderwood/)](https://www.linkedin.com/in/zhalderwood/) &nbsp;
-[![GitHub: zhalderwood](https://img.shields.io/github/followers/zhalderwood?label=follow&style=social)](https://github.com/zhalderwood)
+[![GitHub: zhalderwood](https://img.shields.io/github/followers/zhalderwood?label=follow&style=social)](https://github.com/zhalderwood) &nbsp;
+![](https://visitor-badge.glitch.me/badge?page_id=zhalderwood.zhalderwood)
 
 ### Tech Stack
 - 💻  &nbsp; Python | Java | C++ | PHP
@@ -28,5 +29,3 @@ My name is Zach, and I'm a software developer and student currently based in Kan
 [![zhalderwood's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhalderwood&show_icons=true&theme=calm)](https://github.com/zhalderwood)
 
 [![zhalderwood's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhalderwood&theme=calm)](https://github.com/zhalderwood)
-
-![](https://visitor-badge.glitch.me/badge?page_id=zhalderwood.zhalderwood)
