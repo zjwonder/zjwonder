@@ -6,7 +6,7 @@ My name is Zach, and I'm a software developer and student currently based in Kan
 
 - 📚 I'm wrapping up my bachelor's degree in Computer Science at UMKC this year!
 - 🔭 I’m also working on automating database updates using Django and various helpdesk APIs.
-- 🌱 I’m currently learning artificial intelligence, networking, and operating system implementation.
+- 🌱 I’m currently learning artificial intelligence, networking, and operating systems implementation.
 - 👯 I’m collaborating on a project with some friends to create a website with functionality similar to Craigslist.
 - 💬 Ask me about the ACM Code of Ethics and why it matters to me as an engineer!
 - 📫 How to reach me: zhalderwood@gmail.com
