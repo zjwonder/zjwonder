@@ -14,7 +14,7 @@ My name is Zach, and I'm a software developer and student currently based in Kan
 - ⚡ Fun fact: I am often regarded as surprisingly charismatic for a programmer, and I'm usually the first to volunteer for speaking & presenting in group projects.
 
 ### Social
-[![Bio: Zachary Halderwood](https://img.shields.io/endpoint?url=http://z.web.umkc.edu/zjuvz6/&style=plastic&logo=firefox-browser&label=umkc.edu&message=Zach's-Bio)](http://z.web.umkc.edu/zjuvz6/) &nbsp;
+[![Bio: Zachary Halderwood](https://img.shields.io/endpoint?url=http://z.web.umkc.edu/zjuvz6/&style=plastic&logo=firefox-browser&logoColor=white&&label=umkc.edu&message=Zach's-Bio&link=http://z.web.umkc.edu/zjuvz6/)](http://z.web.umkc.edu/zjuvz6/) &nbsp;
 [![Linkedin: zhalderwood](https://img.shields.io/badge/-zhalderwood-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zhalderwood/)](https://www.linkedin.com/in/zhalderwood/) &nbsp;
 [![GitHub: zhalderwood](https://img.shields.io/github/followers/zhalderwood?label=follow&style=social)](https://github.com/zhalderwood)
 
