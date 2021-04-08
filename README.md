@@ -1,5 +1,4 @@
-## Welcome to my Github page!
-<img src="https://media.giphy.com/media/26xBukhJ0i8KXADYc/giphy.gif" width="160px">
+## Welcome to my Github!
 <img src="https://media.giphy.com/media/toLcOwSg1ZiXFRcw66/giphy.gif" width="160px">
 My name is Zach, and I'm a software developer and student currently based in Kansas City. 
 
