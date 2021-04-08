@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I am often regarded as surprisingly charismatic for a programmer, and I'm usually the first to volunteer for speaking & presenting in group projects.
 
 ### Social
-[![Bio: Zachary Halderwood](https://img.shields.io/badge/style=plastic&logo=Firefox-browser&logoColor=white&label=umkc.edu&message=Zach's Bio&color=green)](http://z.web.umkc.edu/zjuvz6/) &nbsp;
+[![Bio: Zachary Halderwood](https://img.shields.io/badge/-zhalderwood-green?style=plastic&logo=Firefox-browser&logoColor=white&label=umkc.edu&message=Zach's Bio&color=green)](http://z.web.umkc.edu/zjuvz6/) &nbsp;
 [![Linkedin: zhalderwood](https://img.shields.io/badge/-zhalderwood-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zhalderwood/)](https://www.linkedin.com/in/zhalderwood/) &nbsp;
 [![GitHub: zhalderwood](https://img.shields.io/github/followers/zhalderwood?label=follow&style=social)](https://github.com/zhalderwood)
 
@@ -25,8 +25,8 @@
 - 💾  &nbsp; Postgres SQL | MySQL
 - 🛠️  &nbsp; MS Windows veteran (since '98) | Linux Newb (since '20)
 
-[![zhalderwood's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhalderwood&show_icons=true)](https://github.com/zhalderwood)
+[![zhalderwood's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhalderwood&show_icons=true&theme=calm)](https://github.com/zhalderwood)
 
-[![zhalderwood's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhalderwood&layout=compact&theme=darcula)](https://github.com/zhalderwood)
+[![zhalderwood's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhalderwood&theme=calm)](https://github.com/zhalderwood)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=zhalderwood.zhalderwood)
