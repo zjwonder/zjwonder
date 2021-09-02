@@ -1,13 +1,13 @@
 ## Welcome to my Github!
 <img src="https://media.giphy.com/media/toLcOwSg1ZiXFRcw66/giphy.gif" width="160px">
-My name is Zach, and I'm a software developer and student currently based in Kansas City. 
+My name is Zach, and I'm a software engineer and student currently based in Kansas City. 
 
 ### About me
 
-- 📚 I'm wrapping up my bachelor's degree in Computer Science at UMKC this year!
-- 🔭 I’m also working on automating database updates using Django and various helpdesk APIs.
-- 🌱 I’m currently learning artificial intelligence, networking, and operating systems implementation.
-- 👯 I’m collaborating on a project with some friends to create a website with functionality similar to Craigslist.
+- 📚 I'm wrapping up my Bachelor's degree in Computer Science at UMKC this December, and I have plans to get a Master's as well!
+- 🔭 At my day job, I collaborate with my team to create and improve APIs built with ASP.NET and C#, running on AWS's cloud tools.
+- 🌱 I’m currently learning how programming languages are designed, compiled, and interpreted.
+- 👯 I’m the treasurer and back-end team lead with UMKC's chapter of the Association for Computing Machinery.
 - 💬 Ask me about the ACM Code of Ethics and why it matters to me as an engineer!
 - 📫 How to reach me: zhalderwood@gmail.com
 - 😄 Pronouns: he/him/his
@@ -19,10 +19,10 @@ My name is Zach, and I'm a software developer and student currently based in Kan
 [![GitHub: zhalderwood](https://img.shields.io/github/followers/zhalderwood?label=follow&style=for-the-badge)](https://github.com/zhalderwood)
 
 ### Tech Stack
-- 💻  &nbsp; Python | Java | C++ | PHP
-- 🌐  &nbsp; HTML5 | CSS | JSON | Bootstrap
-- 🧰  &nbsp; Django | TensorFlow | Junit | JavaFX
-- 💾  &nbsp; Postgres SQL | MySQL
+- 💻  &nbsp; C# | .NET | Python | Java | C++
+- 🌐  &nbsp; JavaScript | HTML5 | CSS | JSON
+- 🧰  &nbsp; React | Bootstrap | Django | TensorFlow | Junit | JavaFX
+- 💾  &nbsp; AWS | Fargate | Cloudwatch | DynamoDB | Postgres SQL | MySQL
 - 🛠️  &nbsp; MS Windows veteran (since '98) | Linux Newb (since '20)
 
 [![zhalderwood's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhalderwood&show_icons=true&theme=calm)](https://github.com/zhalderwood)
