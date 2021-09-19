@@ -25,6 +25,6 @@ My name is Zach, and I'm a software engineer and student currently based in Kans
 - 💾  &nbsp; AWS | Fargate | Cloudwatch | DynamoDB | Postgres SQL | MySQL
 - 🛠️  &nbsp; MS Windows veteran (since '98) | Linux Newb (since '20)
 
-[![zhalderwood's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhalderwood&show_icons=true&theme=calm)](https://github.com/zhalderwood)
+[![zhalderwood's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhalderwood&show_icons=true&theme=calm)](https://github.com/zjwonder)
 
-[![zhalderwood's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhalderwood&theme=calm)](https://github.com/zhalderwood)
+[![zhalderwood's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhalderwood&theme=calm)](https://github.com/zjwonder)
