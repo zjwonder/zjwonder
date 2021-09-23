@@ -4,7 +4,7 @@ My name is Zach, and I'm a software engineer and student currently based in Kans
 
 ### About me
 
-- 📚 I'm wrapping up my Bachelor's degree in Computer Science at UMKC this December, and I have plans to get a Master's as well!
+- 📚 I'm wrapping up my Bachelor's degree in Computer Science at UMKC this December!
 - 🔭 At my day job, I collaborate with my team to create and improve APIs built with ASP.NET and C#, running on AWS's cloud tools.
 - 🌱 I’m currently learning how programming languages are designed, compiled, and interpreted.
 - 👯 I’m the treasurer and back-end team lead with UMKC's chapter of the Association for Computing Machinery.
