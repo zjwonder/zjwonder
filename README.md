@@ -16,7 +16,7 @@ My name is Zach, and I'm a software engineer and student currently based in Kans
 ### Social
 [![Bio: Zachary Underwood](https://img.shields.io/static/v1?&style=for-the-badge&logo=firefox-browser&logoColor=white&label=umkc.edu&message=Biography&color=brightgreen)](http://z.web.umkc.edu/zjuvz6/) &nbsp;
 [![Linkedin: zhalderwood](https://img.shields.io/badge/-zhalderwood-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zhalderwood/)](https://www.linkedin.com/in/zhalderwood/) &nbsp;
-[![GitHub: zjwonder](https://img.shields.io/github/followers/zhalderwood?label=follow&style=for-the-badge)](https://github.com/zhalderwood)
+[![GitHub: zjwonder](https://img.shields.io/github/followers/zjwonder?label=follow&style=for-the-badge)](https://github.com/zjwonder)
 
 ### Tech Stack
 - 💻  &nbsp; C# | .NET | Python | Java | C++
