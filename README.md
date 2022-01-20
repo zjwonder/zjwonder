@@ -1,6 +1,6 @@
 ## Welcome to my Github!
 <img src="https://media.giphy.com/media/toLcOwSg1ZiXFRcw66/giphy.gif" width="160px">
-My name is Zach, and I'm a software engineer and student currently based in Kansas City. 
+My name is Zach, and I'm a software engineer currently based in Kansas City. 
 
 ### About me
 
