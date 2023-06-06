@@ -5,12 +5,12 @@ My name is Zach, and I'm a software engineer currently based in Kansas City.
 ### About me
 
 - 📚 I'm a UMKC alumni with a BS in Computer Science!
-- 🔭 At my day job, I collaborate with my team to create and improve APIs built with .NET Core and GraphQL, running on AWS's cloud tools.
-- 🌱 I’m currently mentoring a summer intern - teaching him everything I can and learning a lot as I go.
+- 🔭 At my day job, I collaborate with my team to build and maintain platform-wide applications using .NET 6, DynamoDB, Amazon Aurora, et. al.
+- 🌱 I’m currently building a new application which will enable customers to manage their own users. This application will use several architectural choices new to our team, including a mix of relational and non-relational databases, row-level security, semi-automated database updates using Fluent Migrator in a cloud application, and more!
 - 💬 Ask me about the ACM Code of Ethics and why it matters to me as an engineer!
 - 📫 How to reach me: zju.0228@gmail.com
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I am often regarded as surprisingly charismatic for a programmer, and I'm often the first to volunteer for speaking & presenting in group projects.
+- ⚡ Fun fact: I am often regarded as surprisingly charismatic for a programmer.
 
 ### Social
 [![Bio: Zachary Underwood](https://img.shields.io/static/v1?&style=for-the-badge&logo=firefox-browser&logoColor=white&label=umkc.edu&message=Biography&color=brightgreen)](http://z.web.umkc.edu/zjuvz6/) &nbsp;
@@ -18,11 +18,10 @@ My name is Zach, and I'm a software engineer currently based in Kansas City.
 [![GitHub: zjwonder](https://img.shields.io/github/followers/zjwonder?label=follow&style=for-the-badge)](https://github.com/zjwonder)
 
 ### Tech Stack
-- 💻  &nbsp; C# | Python | Java | C++ | Racket
-- 🌐  &nbsp; JavaScript | Typescript | HTML5 | CSS | JSON
+- 💻  &nbsp; .NET 6 | Python | Java | JavaScript | Typescript | SQL
+- 💾  &nbsp; PostgreSQL | DynamoDB | GraphQL APIs | Microservices Architecture
 - 🧰  &nbsp; Angular | React | Bootstrap | Django | TensorFlow | Xunit | JavaFX
-- 💾  &nbsp; .NET Core | GraphQL | AWS | Azure | MS SQL | MySQL
-- 🛠️  &nbsp; MS Windows veteran (since '98) | Linux Newb (since '20)
+- 🛠️  &nbsp; API & Database Design & Management | Authorization/Authentication Systems
 
 [![zjwonder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zjwonder&show_icons=true&theme=calm)](https://github.com/zjwonder)
 
