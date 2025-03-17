@@ -5,8 +5,8 @@ My name is Zach, and I'm a software engineer currently based in Kansas City.
 ### About me
 
 - 📚 I'm a UMKC alumni with a BS in Computer Science!
-- 🔭 At my day job, I collaborate with my team to build and maintain platform-wide applications using .NET 6, DynamoDB, Amazon Aurora, et. al.
-- 🌱 I’m currently building a new application which will enable customers to manage their own users. This application will use several architectural choices new to our team, including a mix of relational and non-relational databases, row-level security, semi-automated database updates using Fluent Migrator in a cloud application, and more!
+- 🔭 At my day job, I collaborate with my team to build and maintain platform-wide applications using .NET/C#, Lambda, DynamoDB, Aurora, et. al.
+- 🌱 I just switched teams to help get my company finish the last major part of getting the product suite fully in MVP status!
 - 💬 Ask me about the ACM Code of Ethics and why it matters to me as an engineer!
 - 📫 How to reach me: zju.0228@gmail.com
 - 😄 Pronouns: he/him/his
@@ -18,10 +18,10 @@ My name is Zach, and I'm a software engineer currently based in Kansas City.
 [![GitHub: zjwonder](https://img.shields.io/github/followers/zjwonder?label=follow&style=for-the-badge)](https://github.com/zjwonder)
 
 ### Tech Stack
-- 💻  &nbsp; .NET 6 | Python | Java | JavaScript | Typescript | SQL
-- 💾  &nbsp; PostgreSQL | DynamoDB | GraphQL APIs | Microservices Architecture
+- 💻  &nbsp; .NET/C# | Python | Java | JavaScript | Typescript | SQL
+- 💾  &nbsp; PostgreSQL | DynamoDB | GraphQL | RESTful API design | Microservices Architecture
 - 🧰  &nbsp; Angular | React | Bootstrap | Django | TensorFlow | Xunit | JavaFX
-- 🛠️  &nbsp; API & Database Design & Management | Authorization/Authentication Systems
+- 🛠️  &nbsp; API & Database Design & Management | Authorization/Authentication/Access Control Systems
 
 [![zjwonder's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zjwonder&show_icons=true&theme=calm)](https://github.com/zjwonder)
 
