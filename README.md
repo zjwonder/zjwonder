@@ -1,14 +1,14 @@
 ## Welcome to my Github!
 <img src="https://media.giphy.com/media/toLcOwSg1ZiXFRcw66/giphy.gif" width="160px">
-My name is Zach, and I'm a software engineer currently based in Kansas City. 
+My name is Zach, and I'm a software engineer based in northern Colorado. 
 
 ### About me
 
-- 📚 I'm a UMKC alumni with a BS in Computer Science!
 - 🔭 At my day job, I collaborate with my team to build and maintain platform-wide applications using .NET/C#, Lambda, DynamoDB, Aurora, et. al.
-- 🌱 I just switched teams to help get my company finish the last major part of getting the product suite fully in MVP status!
-- 💬 Ask me about the ACM Code of Ethics and why it matters to me as an engineer!
-- 📫 How to reach me: zju.0228@gmail.com
+- 🌱 I just switched teams to help get my company finish the last major part of getting the product suite fully in MVP status.
+- 📚 I'm a UMKC alumni with a BS in Computer Science!
+- 💬 Ask me about the ACM Code of Ethics and why it matters to me as an engineer.
+- 📫 How to reach me: zacharyjunderwood@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I am often regarded as surprisingly charismatic for a programmer.
 
